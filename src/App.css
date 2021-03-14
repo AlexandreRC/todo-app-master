@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&family=Raleway:wght@600&display=swap");
+body, html {
+  overflow-y: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  width: 608px;
+  margin: auto;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 36px;
+  letter-spacing: -0.045em;
+  text-align: center;
+}
+
+.state {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border-bottom: 1px solid #BDBDBD;
+  padding-bottom: 19px;
+}
+
+.state > * {
+  cursor: pointer;
+  transform: translateX(50%);
+  margin: 0 60px;
+}
+
+.insert-todo {
+  display: flex;
+  gap: 25px;
+  margin-top: 18px;
+}
+.insert-todo input {
+  outline: none;
+  flex-grow: 1;
+  border: 1px solid #BDBDBD;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #828282;
+  padding-left: 12px;
+  height: 56px;
+}
+.insert-todo button {
+  width: 109px;
+  justify-content: center;
+}
+
+.todos-container {
+  margin-top: 29px;
+}
+.todos-container .todo {
+  display: flex;
+  margin-bottom: 27px;
+}
+.todos-container .todo input {
+  margin: 0;
+  width: 24px;
+  height: 24px;
+}
+.todos-container .todo span {
+  margin: auto 0 auto 7px;
+  font-size: 18px;
+  line-height: 22px;
+}
+.todos-container .todo img {
+  cursor: pointer;
+  margin-left: auto;
+  height: 21px;
+}/*# sourceMappingURL=App.css.map */
