@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://reusable-button-component.netlify.app/">
+    <a href="https://todo-app-arc.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/DtJK7tewoVTxcutJUujR">
+    <a href="https://devchallenges.io/solutions/iLFjyNqzV4cx7jgRsQJR">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
+    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
       Challenge
     </a>
   </h3>
@@ -38,11 +38,11 @@
 
 ![screenshot](https://i.ibb.co/L0M4Z3w/asdws.png)
 
-I did this project to learn the Hooks of React.js, using useState, useEffect and useRef
+I did this project to learn the Hooks of React.js, using useState, useEffect, and useRef
 
 <hr>
 
-Eu fiz esse projeto para aprender os Hooks do React.js, usando useState, useEffect e useRef
+Eu fiz esse projeto para aprender os Hooks do React.js, usando useState, useEffect, e useRef
 
 ### Built With
 
