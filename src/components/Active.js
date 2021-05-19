@@ -12,7 +12,7 @@ export default function Active({todos, setTodos, changeCheck}) {
         <>
             <div className='insert-todo'>
                 <input placeholder='Add details' ref={inputText} type='text'/>
-                <Button onClick={() => setTodos([...todos , {name: inputText.current.value, isChecked: true}])} size='lg' color='#2F80ED'>Add</Button>
+                <Button onClick={() => setTodos([...todos , {name: inputText.current.value, isChecked: false}])} size='lg' color='#2F80ED'>Add</Button>
             </div>
             <div className='todos-container'>
                 {activeTodo?.map(item => {

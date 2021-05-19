@@ -39,6 +39,7 @@ function App() {
         <span style={{color: mode === 3? '#2F80ED' : 'black'}} onClick={() => changeMode(3)}>Completed</span>
       </div>
       {getMode()}
+     
     </div>
   );
 }
