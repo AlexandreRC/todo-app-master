@@ -49,8 +49,6 @@ Eu fiz esse projeto para aprender os Hooks do React.js, usando useState, useEffe
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [Material Design](https://material.io/resources/icons/?style=baseline)
 
 ## Features
 
